@@ -128,7 +128,7 @@ tbody tr:nth-child(odd) {
 }
 
 tr:hover td, tr:hover th{
-  background-color: rgb(126,8,37,0.25);
+  background-color: rgba(126,8,37,0.25);
 
 }
 
